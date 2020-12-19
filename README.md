@@ -1,2 +1,2 @@
 # Penetration-Testing
-Laboratorio Seguridad en Sistemas Informáticos
+Laboratorio de Seguridad en Sistemas Informáticos
